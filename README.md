@@ -1,0 +1,1 @@
+A collection of tasks and exercises to help hone skills in data science, machine learning, and AI
